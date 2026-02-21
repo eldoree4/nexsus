@@ -10,7 +10,7 @@ setup(
     description="Advanced Bug Hunting Framework for Modern Web Applications",
     long_description=long_desc,
     long_description_content_type="text/markdown",
-    author="Bug Bounty Elite",
+    author="ElDoree4",
     license="Proprietary - Authorized Use Only",
     python_requires=">=3.10",
     packages=find_packages(exclude=["tests*"]),
