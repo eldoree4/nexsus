@@ -1,0 +1,19 @@
+cat > .gitignore << 'EOF'
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.pot
+*.egg-info/
+dist/
+build/
+nexsus.egg-info/
+EOF
